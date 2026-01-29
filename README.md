@@ -19,3 +19,4 @@ I’m currently preparing new public projects to document my learning in **Java 
 ### Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/luisgrferreira/
 - 🧑‍💻 GitHub: https://github.com/LuisGu06
+- 📫 How to reach me luisgustavorf2003@gmail.com
