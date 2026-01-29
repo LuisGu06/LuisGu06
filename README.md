@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Luis Ferreira
 
-<!--
-**LuisGu06/LuisGu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** from Brazil, focused on **back-end development and APIs** — building pragmatic solutions with clean code and solid fundamentals.
 
-Here are some ideas to get you started:
+- 🔧 Currently working mostly with **PHP**, and moving deeper into **Java/Spring**
+- 🐳 I enjoy **Docker**, good database design, and simple architecture that scales
+- 📚 Learning: **Spring**, **DDD**, and software engineering best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+**Languages:** PHP, Java  
+**Backend:** Laravel (work), Spring (learning)  
+**Database:** PostgreSQL, MySQL  
+**Tools:** Docker, Git, REST APIs, JWT
+
+### What I'm building now
+I’m currently preparing new public projects to document my learning in **Java + Spring**.
+- 🚧 **Upcoming:** Java/Spring API project (REST + Auth + Docker + DB)
+
+### Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/luisgrferreira/
+- 🧑‍💻 GitHub: https://github.com/LuisGu06
