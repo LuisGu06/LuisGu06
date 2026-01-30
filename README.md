@@ -14,7 +14,7 @@ I'm a **Software Developer** from Brazil, focused on **back-end development and 
 
 ### What I'm building now
 I’m currently preparing new public projects to document my learning in **Java + Spring**.
-- 🚧 **Upcoming:** Java/Spring API project (REST + Auth + Docker + DB)
+- **https://github.com/LuisGu06/ta-perdido-docs** -- Java/Spring API project (REST + Auth + Docker + DB)
 
 ### Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/luisgrferreira/
